@@ -20,3 +20,14 @@ C:\Users\User\Desktop\pingle main\Pingle Client\obj\Debug\Pingle Client.exe
 C:\Users\User\Desktop\pingle main\Pingle Client\obj\Debug\Pingle Client.pdb
 C:\Users\User\Desktop\pingle main\Pingle Client\obj\Debug\Interop.NetFwTypeLib.dll
 C:\Users\User\Desktop\pingle main\Pingle Client\obj\Debug\Pingle Client.csproj.ResolveComReference.cache
+C:\Users\romano\Desktop\present\pingle\Pingle Client\bin\Debug\Pingle Client.exe.config
+C:\Users\romano\Desktop\present\pingle\Pingle Client\bin\Debug\Pingle Client.exe
+C:\Users\romano\Desktop\present\pingle\Pingle Client\bin\Debug\Pingle Client.pdb
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Pingle Client.csprojResolveAssemblyReference.cache
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Pingle Client.csproj.ResolveComReference.cache
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Pingle.frmClient.resources
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\PingleClient.Properties.Resources.resources
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Pingle Client.csproj.GenerateResource.Cache
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Pingle Client.exe
+C:\Users\romano\Desktop\present\pingle\Pingle Client\obj\Debug\Pingle Client.pdb

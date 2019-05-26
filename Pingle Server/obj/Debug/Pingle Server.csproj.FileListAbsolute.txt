@@ -46,3 +46,16 @@ C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.csproj.C
 C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.csproj.CopyComplete
 C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.exe
 C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.pdb
+C:\Users\romano\Desktop\present\pingle\Pingle Server\bin\Debug\Pingle Server.exe.config
+C:\Users\romano\Desktop\present\pingle\Pingle Server\bin\Debug\Pingle Server.exe
+C:\Users\romano\Desktop\present\pingle\Pingle Server\bin\Debug\Pingle Server.pdb
+C:\Users\romano\Desktop\present\pingle\Pingle Server\bin\Debug\Pingle Client.exe
+C:\Users\romano\Desktop\present\pingle\Pingle Server\bin\Debug\Pingle Client.pdb
+C:\Users\romano\Desktop\present\pingle\Pingle Server\bin\Debug\Pingle Client.exe.config
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Pingle Server.csprojResolveAssemblyReference.cache
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Pingle Server.csproj.ResolveComReference.cache
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Pingle_Server.frmPigleServer.resources
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Pingle Server.csproj.GenerateResource.Cache
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Pingle Server.exe
+C:\Users\romano\Desktop\present\pingle\Pingle Server\obj\Debug\Pingle Server.pdb
