@@ -1,0 +1,48 @@
+C:\Users\User\source\repos\Pingle Server\Pingle Server\bin\Debug\Pingle Server.exe.config
+C:\Users\User\source\repos\Pingle Server\Pingle Server\bin\Debug\Pingle Server.exe
+C:\Users\User\source\repos\Pingle Server\Pingle Server\bin\Debug\Pingle Server.pdb
+C:\Users\User\source\repos\Pingle Server\Pingle Server\obj\Debug\Pingle Server.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pingle Server\Pingle Server\obj\Debug\Pingle Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pingle Server\Pingle Server\obj\Debug\Pingle Server.exe
+C:\Users\User\source\repos\Pingle Server\Pingle Server\obj\Debug\Pingle Server.pdb
+C:\Users\npc\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Server.exe.config
+C:\Users\npc\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Server.exe
+C:\Users\npc\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Server.pdb
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csprojAssemblyReference.cache
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csproj.CoreCompileInputs.cache
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.exe
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.pdb
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle_Server.frmPigleServer.resources
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Server.exe.config
+C:\Users\User\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Server.exe
+C:\Users\User\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Server.pdb
+C:\Users\User\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Client.exe
+C:\Users\User\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Client.pdb
+C:\Users\User\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Client.exe.config
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle_Server.frmPigleServer.resources
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csproj.CopyComplete
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.exe
+C:\Users\User\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.pdb
+C:\Users\npc\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Client.exe
+C:\Users\npc\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Client.pdb
+C:\Users\npc\source\repos\Pingle\Pingle Server\bin\Debug\Pingle Client.exe.config
+C:\Users\npc\source\repos\Pingle\Pingle Server\obj\Debug\Pingle Server.csproj.CopyComplete
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\Pingle Server.exe.config
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\Pingle Server.exe
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\Pingle Server.pdb
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\Pingle Client.exe
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\System.ValueTuple.dll
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\Pingle Client.pdb
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\Pingle Client.exe.config
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Debug\System.ValueTuple.xml
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle_Server.frmPigleServer.resources
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.csproj.CopyComplete
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.exe
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Debug\Pingle Server.pdb

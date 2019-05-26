@@ -1,0 +1,54 @@
+C:\Users\User\Desktop\pingle\Pingle Server\bin\Release\Pingle Server.exe.config
+C:\Users\User\Desktop\pingle\Pingle Server\bin\Release\Pingle Server.exe
+C:\Users\User\Desktop\pingle\Pingle Server\bin\Release\Pingle Server.pdb
+C:\Users\User\Desktop\pingle\Pingle Server\bin\Release\Pingle Client.exe
+C:\Users\User\Desktop\pingle\Pingle Server\bin\Release\Pingle Client.pdb
+C:\Users\User\Desktop\pingle\Pingle Server\bin\Release\Pingle Client.exe.config
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle_Server.frmPigleServer.resources
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.csproj.CopyComplete
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.exe
+C:\Users\User\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.pdb
+C:\Users\romano\Desktop\pingle\Pingle Server\bin\Release\Pingle Server.exe.config
+C:\Users\romano\Desktop\pingle\Pingle Server\bin\Release\Pingle Server.exe
+C:\Users\romano\Desktop\pingle\Pingle Server\bin\Release\Pingle Server.pdb
+C:\Users\romano\Desktop\pingle\Pingle Server\bin\Release\Pingle Client.exe
+C:\Users\romano\Desktop\pingle\Pingle Server\bin\Release\Pingle Client.pdb
+C:\Users\romano\Desktop\pingle\Pingle Server\bin\Release\Pingle Client.exe.config
+C:\Users\romano\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.csprojResolveAssemblyReference.cache
+C:\Users\romano\Desktop\pingle\Pingle Server\obj\Release\Pingle_Server.frmPigleServer.resources
+C:\Users\romano\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.csproj.GenerateResource.Cache
+C:\Users\romano\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.exe
+C:\Users\romano\Desktop\pingle\Pingle Server\obj\Release\Pingle Server.pdb
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\Pingle Server.exe.config
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\Pingle Server.exe
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\Pingle Server.pdb
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\Pingle Client.exe
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\Pingle Client.pdb
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\Pingle Client.exe.config
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\obj\Release\Pingle Server.csprojResolveAssemblyReference.cache
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\obj\Release\Pingle_Server.frmPigleServer.resources
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\obj\Release\Pingle Server.csproj.GenerateResource.Cache
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\obj\Release\Pingle Server.exe
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\obj\Release\Pingle Server.pdb
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\System.ValueTuple.dll
+C:\Users\romano\Desktop\present\pingle main\Pingle Server\bin\Release\System.ValueTuple.xml
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\Pingle Server.exe.config
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\Pingle Server.exe
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\Pingle Server.pdb
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\Pingle Client.exe
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\System.ValueTuple.dll
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\Pingle Client.pdb
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\Pingle Client.exe.config
+C:\Users\User\Desktop\pingle main\Pingle Server\bin\Release\System.ValueTuple.xml
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle_Server.frmPigleServer.resources
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.csproj.GenerateResource.cache
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.csproj.CopyComplete
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.exe
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.pdb
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\User\Desktop\pingle main\Pingle Server\obj\Release\Pingle Server.csproj.ResolveComReference.cache

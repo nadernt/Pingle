@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pingle Server", "Pingle Server\Pingle Server.csproj", "{9FE052A8-5CAC-4DA7-9271-0EB2B61D63F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pingle Client", "Pingle Client\Pingle Client.csproj", "{DDD775AC-42A6-46F1-9D13-2AF47EDBD94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE052A8-5CAC-4DA7-9271-0EB2B61D63F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE052A8-5CAC-4DA7-9271-0EB2B61D63F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE052A8-5CAC-4DA7-9271-0EB2B61D63F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE052A8-5CAC-4DA7-9271-0EB2B61D63F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDD775AC-42A6-46F1-9D13-2AF47EDBD94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD775AC-42A6-46F1-9D13-2AF47EDBD94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD775AC-42A6-46F1-9D13-2AF47EDBD94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD775AC-42A6-46F1-9D13-2AF47EDBD94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65EC3936-8255-4A9F-9696-EDE2FEB3EC65}
+	EndGlobalSection
+EndGlobal
