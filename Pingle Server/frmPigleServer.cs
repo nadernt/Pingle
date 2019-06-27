@@ -172,11 +172,11 @@ namespace Pingle_Server
             if (prefixes == null || prefixes.Length == 0)
                 throw new ArgumentException("prefixes");
 
-            foreach (string s in prefixes)
-            {
-                listener.Prefixes.Add(s);
-            }
-
+             foreach (string s in prefixes)
+             {
+                 listener.Prefixes.Add(s);
+             }
+            //listener.Prefixes.Add("http://169.254.201.60:80/");
             listener.Start();
 
             Console.WriteLine("Listening...");
@@ -363,11 +363,21 @@ namespace Pingle_Server
 
         private void frmPigleServer_Load(object sender, EventArgs e)
         {
+            
+            System.Diagnostics.Process process = new System.Diagnostics.Process();
+            System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
+            startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
+            startInfo.FileName = "cmd.exe";
+            startInfo.Arguments = "/C netsh http add iplisten 0.0.0.0";
+            process.StartInfo = startInfo;
+            process.Start();
+
             if (!FireallRuleExist())
             {
                 AddFirewallRule(NET_FW_RULE_DIRECTION_.NET_FW_RULE_DIR_IN);
                 AddFirewallRule(NET_FW_RULE_DIRECTION_.NET_FW_RULE_DIR_OUT);
             }
+
 
             cmbIPList.DropDownStyle = ComboBoxStyle.DropDownList;
 
